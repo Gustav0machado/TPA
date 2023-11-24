@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author rocha
- *
- */
-module switchcase {
-}
