@@ -1,10 +1,9 @@
 
 public class dobroMa {
     public static void main(String[] args) {
-        int l = 4, c = 4;
+        int l = 4, c = 4,val = 2;
         int v[][] = new int[l][c];
-        int val = 2;
-
+        
         for (int i = 0; i < l; i++) {
             for (int j = 0; j < c; j++) {
                 v[i][j] = val;
